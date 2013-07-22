@@ -11,8 +11,10 @@ public class MainActivity extends DroidGap {
 	@Override
 	public void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
+		System.out.println("success");
 		//setContentView(R.layout.activity_main);
 		super.loadUrl("file:///android_asset/www/chnoumis.html");
+		
 	}
 
 	
