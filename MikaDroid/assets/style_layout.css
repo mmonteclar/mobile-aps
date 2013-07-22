@@ -1,0 +1,68 @@
+@charset "utf-8";
+/* CSS Document */
+
+.overall_wrap {
+  width:800px;
+  height:200px;
+ 	
+}
+
+.header_wrap {
+  width:800px;
+  height:60px;
+}
+.logo {
+
+  float:left;	
+  height:60px;
+ 
+}
+
+.contacts  {
+	position:relative;
+	margin: 15px 0px 0px 400px;
+   
+ 
+}
+
+.middle_content {
+	width:800px;
+	height: 100px;
+     
+}
+
+.middle1 {
+ 	width: 215px;
+	height: 100px;
+	float:left;
+} 
+
+.middle1 p {
+ 	background-color:yellow;
+
+}
+
+
+.middle2 {
+ 	width: 292.5px;
+	height: 100px;
+	margin-left:215px;
+    
+}
+
+.1_2 {
+    width:507.5;
+	height: 100px;
+	float:left;
+	}
+
+.middle3 {
+ 	width: 292px;
+	height: 100px;
+	float:right;
+}
+
+
+.bottom_content {
+	
+}
